@@ -1,0 +1,33 @@
+.bg-mycolor,
+.page-footer {
+    background-color: #18191a;
+}
+
+.page-footer a {
+    color: #8A8D91
+}
+
+body {
+    background-color: #18191a;
+    color: white;
+}
+
+a {
+    color: white
+}
+
+.portfolio-block.projects-with-sidebar a {
+    color: #8A8D91;
+    font-weight: 300;
+}
+
+.portfolio-block.projects-cards a {
+    color: white;
+    text-decoration: none;
+}
+
+.portfolio-navbar.navbar, 
+.page-footer{
+    box-shadow: 0 0 0 0px;
+    border-width: 0px;
+}
